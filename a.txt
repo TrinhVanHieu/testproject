@@ -1,5 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 abcd
 =======
 update a
 >>>>>>> 42a1fd4 (A)
+=======
+abcd
+
+test update
+>>>>>>> 8de8ea9 ( A2)
