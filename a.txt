@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-update a
-=======
 abcd
->>>>>>> test
+
+test update
